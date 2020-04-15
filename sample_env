@@ -1,2 +1,3 @@
 DISCORD_GUILD=AppClientID
 DISCORD_TOKEN=BotToken
+DB_PATH=PathToSQLiteFile
