@@ -1,3 +1,5 @@
 DISCORD_GUILD=AppClientID
 DISCORD_TOKEN=BotToken
 DB_PATH=PathToSQLiteFile
+JOIN_ROLE=RoleNameForJoiningCompetitors
+COMPETITOR_ROLE=RoleNameForRegisteredCompetitors
